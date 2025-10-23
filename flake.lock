@@ -23,17 +23,18 @@
         ]
       },
       "locked": {
-        "lastModified": 1753595452,
-        "narHash": "sha256-vqkSDvh7hWhPvNjMjEDV4KbSCv2jyl2Arh73ZXe274k=",
-        "ref": "refs/heads/master",
-        "rev": "a5431dd02dc23d9ef1680e67777fed00fe5f7cda",
-        "revCount": 665,
-        "type": "git",
-        "url": "https://git.outfoxxed.me/outfoxxed/quickshell"
+        "lastModified": 1761252457,
+        "narHash": "sha256-yVq+sP92XceDriLJb+BCLD2h1cEfkln8ot5L2Rg6HqY=",
+        "owner": "Cu3PO42",
+        "repo": "quickshell",
+        "rev": "e87903deda060c57968241b979b222f3ab57382a",
+        "type": "github"
       },
       "original": {
-        "type": "git",
-        "url": "https://git.outfoxxed.me/outfoxxed/quickshell"
+        "owner": "Cu3PO42",
+        "ref": "polkit",
+        "repo": "quickshell",
+        "type": "github"
       }
     },
     "root": {

@@ -6,7 +6,7 @@
     systems.url = "github:nix-systems/default";
 
     quickshell = {
-      url = "git+https://git.outfoxxed.me/outfoxxed/quickshell";
+      url = "github:Cu3PO42/quickshell/polkit";
       inputs.nixpkgs.follows = "nixpkgs";
     };
   };

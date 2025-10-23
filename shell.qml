@@ -23,6 +23,7 @@ import qs.Modules.Background
 import qs.Modules.Dock
 import qs.Modules.LockScreen
 import qs.Modules.SessionMenu
+import qs.Modules.Polkit
 
 // Bar & Bar Components
 import qs.Modules.Bar
@@ -108,6 +109,8 @@ ShellRoot {
           PanelService.lockScreen = lockScreen
         }
       }
+
+      Polkit {}
 
       ToastOverlay {}
       OSD {}
